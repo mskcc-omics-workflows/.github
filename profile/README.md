@@ -1,4 +1,4 @@
 ## Welcome 👋
 
-The MSKCC Omics Workflow development group's mission is to develop collaborative workflows using Nextflow.
+The MSKCC Omics Workflow development group's mission is to develop collaborative workflows using Nextflow and nf-core. 
 
